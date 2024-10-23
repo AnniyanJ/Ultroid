@@ -1,0 +1,4 @@
+run = "python3 -m ultroid"
+language = "python"
+entrypoint = "ultroid/__main__.py"
+
